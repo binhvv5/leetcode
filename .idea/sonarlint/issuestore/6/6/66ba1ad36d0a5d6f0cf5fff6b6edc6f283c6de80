@@ -1,0 +1,8 @@
+
+r
+java:S1104	"PMake prev a static final constant or non-public and provide accessors if needed.(ø´£›ùÿÿÿÿ8«ÿı°Ù0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“Ÿª
+c
+java:S1126"AReplace this if-then-else statement by a single return statement.(Ïø­ğøÿÿÿÿ8Ó•ƒ±Ù0
+N
+java:S1128",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ8®ÿı°Ù0
